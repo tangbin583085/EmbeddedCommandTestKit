@@ -1,2 +1,0 @@
-add_executable(spp_console main.cpp)
-target_link_libraries(spp_console PRIVATE StreamPacketParser::StreamPacketParser)
