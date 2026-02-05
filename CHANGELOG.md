@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Added an installable CMake package configuration.
+- Clarified the transport adapter scope in the README.
+
 ## 0.1.0
 
 - Added the first host-side command test runner.
